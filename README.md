@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi!👋
 
 ✨I'm a Ph.D. candidate at LIESMARS, Wuhan University.  
 ✨I received B.S. degree from the School of Resources and Civil Engineering, Northeastern University in 2019.  
