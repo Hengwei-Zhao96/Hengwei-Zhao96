@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm a Ph.D. candidate at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. 
-I received B.S. degree from the School of Resources and Civil Engineering, Northeastern University in 2019.
+I'm a Ph.D. candidate at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University.  
+I received B.S. degree from the School of Resources and Civil Engineering, Northeastern University in 2019.  
 I'm now a member of RSIDEA group, advised by Prof. Yanfei Zhong.
 
 My research interest is weakly supervised remote sensing image process.
