@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I'm a Ph.D. candidate at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University.  
-I received B.S. degree from the School of Resources and Civil Engineering, Northeastern University in 2019.  
-I'm now a member of RSIDEA group, advised by Prof. Yanfei Zhong.
+✨I'm a Ph.D. candidate at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University.  
+✨I received B.S. degree from the School of Resources and Civil Engineering, Northeastern University in 2019.  
+✨I'm now a member of RSIDEA group, advised by Prof. Yanfei Zhong.
 
-My research interest is weakly supervised remote sensing image process.
+✨My research interest is weakly supervised remote sensing image process.  
+😄I am a beginner in the satellite imagery data science competition.
 
 <!--
 **Hengwei-Zhao96/Hengwei-Zhao96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
