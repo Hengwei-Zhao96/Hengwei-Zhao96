@@ -4,7 +4,7 @@
 ✨I received B.S. degree from the School of Resources and Civil Engineering, Northeastern University in 2019.  
 ✨I'm now a member of RSIDEA group, advised by Prof. Yanfei Zhong.
 
-✨My research interest is weakly supervised remote sensing image process.  
+✨My research interest is learning-based weakly supervised remote sensing image processing.  
 😄I am a beginner in the satellite imagery data science competition.
 
 
