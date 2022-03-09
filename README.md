@@ -14,6 +14,12 @@
 * 2021“MAP”杯农业遥感应用大赛-地块识别 优胜奖  
 * 2021“MAP”杯农业遥感应用大赛-作物识别 优胜奖
 
+
+## Selected Publication
+* Mapping the distribution of invasive tree species using deep one-class classification in the tropical montane landscape of Kenya  
+  **Hengwei Zhao**, Yanfei Zhong, Xinyu Wang, Xin Hu, Chang Luo, Mark Boitt, Rami Piiroinen, Petri Pellikka, Janne Heiskanen, Liangpei Zhang  
+  ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS P&RS**), 2022
+
 <!--
 **Hengwei-Zhao96/Hengwei-Zhao96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
