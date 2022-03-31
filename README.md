@@ -17,8 +17,8 @@
 
 ## Selected Publication
 * Mapping the distribution of invasive tree species using deep one-class classification in the tropical montane landscape of Kenya  
-  **Hengwei Zhao**, Yanfei Zhong, Xinyu Wang, Xin Hu, Chang Luo, Mark Boitt, Rami Piiroinen, Petri Pellikka, Janne Heiskanen, Liangpei Zhang  
-  ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS P&RS**), 2022
+  **Hengwei Zhao**, Yanfei Zhong, Xinyu Wang, Xin Hu, Chang Luo, Mark Boitt, Rami Piiroinen, Liangpei Zhang, Janne Heiskanen, Petri Pellikka  
+  ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS P&RS**), 2022, [Link](https://www.sciencedirect.com/science/article/pii/S0924271622000715)
 
 <!--
 **Hengwei-Zhao96/Hengwei-Zhao96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
