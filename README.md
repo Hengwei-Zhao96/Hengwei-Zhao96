@@ -13,6 +13,7 @@
 * 2021全球开放数据创新应用大赛·珠海-算法专题赛 第一名 ID：WIDEA  
 * 2021“MAP”杯农业遥感应用大赛-地块识别 优胜奖  
 * 2021“MAP”杯农业遥感应用大赛-作物识别 优胜奖
+* 2022IJCAI LandSlide4Sense竞赛 1st Place, [Link](https://www.iarai.ac.at/landslide4sense/challenge/)
 
 
 ## Selected Publication
